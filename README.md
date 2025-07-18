@@ -1,4 +1,4 @@
-Hi, I'm BG2CNT, formely known as aerglass.
+# Hi, I'm BG2CNT :)
 
 I code for fun at times. Mostly C++ and BlocksDS stuff. I don't have the best experience but I do have a lot of fun
 
